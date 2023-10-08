@@ -7,8 +7,7 @@ import java.util.*;
 		
          int a=5;
          int b=8;
-		
-
+         
 		if (a > b) {
 			System.out.println("a is Greter");
 		} else 
